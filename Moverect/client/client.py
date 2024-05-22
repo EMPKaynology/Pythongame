@@ -32,7 +32,7 @@ class Client:
                 print(e)
                 import traceback
                 traceback.print_exc()
-                #Heul doch
+                #Heul doch mal JUNGE
                 #break
         
         self.close()
